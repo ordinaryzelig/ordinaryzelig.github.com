@@ -1,0 +1,16 @@
+---
+layout: default
+subtitle: Code Ningja
+list: false
+categories: dev_blog
+---
+
+<ul>
+  {% for post in site.posts %}
+
+    {% unless post.list == false %}
+      <li /> <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endunless %}
+
+  {% endfor %}
+</ul>
