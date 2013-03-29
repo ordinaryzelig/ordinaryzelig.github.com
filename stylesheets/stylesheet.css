@@ -374,3 +374,22 @@ Small Device Styles
   }
 
 }
+
+/*******************************************************************************
+Custom */
+
+ul#contact li {
+  list-style-type: none;
+  color: white;
+}
+
+#post-date {
+  font-size: 12pt;
+  color: #999;
+  margin-bottom: 30px;
+}
+
+.markdown-body {
+  font-family: Arial;
+  padding: 20px;
+}
