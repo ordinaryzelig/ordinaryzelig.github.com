@@ -398,3 +398,7 @@ ul#contact li {
 #project_tagline a {
   color: white;
 }
+
+#gist-comments-note {
+  font-size: 80%;
+}
