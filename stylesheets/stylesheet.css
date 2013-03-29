@@ -393,3 +393,8 @@ ul#contact li {
   font-family: Arial;
   padding: 20px;
 }
+
+#project_title a,
+#project_tagline a {
+  color: white;
+}
