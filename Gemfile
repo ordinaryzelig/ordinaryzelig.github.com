@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
-gem 'guard-jekyll'
-gem 'rb-fsevent'
+
+group :development do
+  gem 'guard-jekyll'
+  gem 'rb-fsevent'
+  gem 'foreman'
+end
