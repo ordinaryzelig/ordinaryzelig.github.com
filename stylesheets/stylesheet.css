@@ -81,8 +81,8 @@ a {
   text-decoration: none;
   color: #007edf; }
 
-#main_content a:hover {
-  color: #008fff; }
+a:hover {
+  color: #1398ff; }
 
 em {
   font-style: italic; }

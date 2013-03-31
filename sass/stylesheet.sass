@@ -81,12 +81,13 @@ p
 footer p
   color: #f2f2f2
 
+$link_color: #007edf
 a
   text-decoration: none
-  color: #007edf
+  color: $link_color
 
-#main_content a:hover
-  color: #008fff
+a:hover,
+  color: lighten($link_color, 10%)
 
 em
   font-style: italic
