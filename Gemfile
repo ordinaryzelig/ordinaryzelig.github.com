@@ -6,4 +6,5 @@ group :development do
   gem 'guard-jekyll'
   gem 'rb-fsevent'
   gem 'foreman'
+  gem 'guard-sass'
 end
