@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mac tip: Safari file upload shortcut'
-categories: dev_blog
+categories: dev
 ---
 
 Typically, when you upload files to the Internet from safari, you click the `Choose File` button, find the file, select it, then click the `Choose` button.

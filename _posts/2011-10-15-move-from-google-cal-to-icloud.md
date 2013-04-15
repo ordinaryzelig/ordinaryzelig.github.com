@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Move from Google Cal to iCloud
-categories: dev_blog
+categories: dev
 format: markdown
 ---
 

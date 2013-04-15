@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adopt A Hacker: Red Dirt RubyConf 2011'
-categories: dev_blog
+categories: dev
 ---
 
 Going to [Red Dirt RubyConf 2011](http://reddirtrubyconf.com)?
