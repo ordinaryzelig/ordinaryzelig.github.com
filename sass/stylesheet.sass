@@ -145,11 +145,9 @@ dl dt
 
 dl dd
   padding-left: 20px
-  font-style: italic
 
 dl p
   padding-left: 20px
-  font-style: italic
 
 hr
   height: 1px
@@ -261,7 +259,15 @@ ul#contact li, ul#blogs li
 #gist-comments-note
   font-size: 80%
 
-ul#trips > li
-  list-style: none
-  margin: 10px
-  padding-left: 0
+$trip_name_width: 120px
+dl#trips
+  margin-top: 50px
+  dt /* trip-name */
+    float: left
+    font-weight: bold
+    width: $trip_name_width
+  dd /* posts */
+    margin-left: $trip_name_width
+    margin-bottom: 50px
+    li
+      text-indent: -20px

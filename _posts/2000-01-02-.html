@@ -20,37 +20,21 @@ categories: travel
   I like going to distant lands, places I don't know much about. Getting lost is a great way to make discoveries.
 </p>
 
-<ul id="trips">
-  <li>
-    {% assign trip = 'Europe 2012' %}
-    {% include trip_posts.html %}
-  </li>
-  <li>
-    {% assign trip = 'New Zealand, Australia, Japan' %}
-    {% include trip_posts.html %}
-  </li>
-  <li>
-    {% assign trip = 'Orlando 2011' %}
-    {% include trip_posts.html %}
-  </li>
-  <li>
-    {% assign trip = 'NYC 2010' %}
-    {% include trip_posts.html %}
-  </li>
-  <li>
-    {% assign trip = 'San Diego, Honolulu, China 2010' %}
-    {% include trip_posts.html %}
-  </li>
-  <li>
-    {% assign trip = 'East Africa 2010' %}
-    {% include trip_posts.html %}
-  </li>
-  <li>
-    {% assign trip = 'Tanzania 2009' %}
-    {% include trip_posts.html %}
-  </li>
-  <li>
-    {% assign trip = 'China 2002' %}
-    {% include trip_posts.html %}
-  </li>
-</ul>
+<dl id="trips">
+  {% assign trip = 'Europe 2012' %}
+  {% include trip_posts.html %}
+  {% assign trip = 'New Zealand, Australia, Japan' %}
+  {% include trip_posts.html %}
+  {% assign trip = 'Orlando 2011' %}
+  {% include trip_posts.html %}
+  {% assign trip = 'NYC 2010' %}
+  {% include trip_posts.html %}
+  {% assign trip = 'San Diego, Honolulu, China 2010' %}
+  {% include trip_posts.html %}
+  {% assign trip = 'East Africa 2010' %}
+  {% include trip_posts.html %}
+  {% assign trip = 'Tanzania 2009' %}
+  {% include trip_posts.html %}
+  {% assign trip = 'China 2002' %}
+  {% include trip_posts.html %}
+</dl>
