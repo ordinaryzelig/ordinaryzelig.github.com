@@ -24,7 +24,13 @@
           <span id="title-Ning">Ning</span>
         </a>
       </h1>
-      <h2 id="project_tagline"><a href="/{{ page.categories.first }}">{{ page.subtitle }}</a></h2>
+      <h2 id="project_tagline"><a href="/{{ page.categories.first }}">
+        {% if page.categories contains "dev" %}
+          Code Ningja
+        {% elsif page.categories contains "travel" %}
+          Get Lost
+        {% endif %}
+      </a></h2>
       {% if page.showContact %} {% include contact.html %} {% endif %}
       </header>
     </div>
