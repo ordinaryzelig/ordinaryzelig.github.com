@@ -2,6 +2,7 @@
 layout: post
 title: The Fellowship of the Ring of Fire
 categories: travel
+trip: New Zealand, Australia, Japan
 ---
 The Pacific Ring of Fire is an area where large numbers of earthquakes and volcanic eruptions occur in the basin of the Pacific Ocean. If you think of a few of the natural disasters in the past year, a few of them happened in this area:&nbsp;<a href="http://en.wikipedia.org/wiki/February_2011_Christchurch_earthquake">February 2011 Christchurch earthquake</a>,&nbsp;<a href="http://en.wikipedia.org/wiki/Queensland_floods">2010&ndash;2011 Queensland floods</a>,&nbsp;<a href="http://en.wikipedia.org/wiki/Japan_tsunami">2011 Tōhoku earthquake and tsunami</a>.&nbsp;This is where we decided to go on vacation. And so the fellowship was formed.
 
