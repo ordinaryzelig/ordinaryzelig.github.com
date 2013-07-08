@@ -1,2 +1,2 @@
 guard: bundle exec guard
-jekyll: jekyll serve
+jekyll: jekyll serve --safe
