@@ -7,7 +7,9 @@ layout: default
 
 {% if page.gist_id %}
 
-  <script src="https://gist.github.com/{{ page.gist_id }}.js"></script>
+  <div id="gist">
+    <script src="https://gist.github.com/{{ page.gist_id }}.js"></script>
+  </div>
 
   <div id="gist-comments-note">
     Comments can be seen/added on the gist page on github.
