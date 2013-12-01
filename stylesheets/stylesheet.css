@@ -102,6 +102,19 @@ blockquote {
   padding: 0 0 0 20px;
   border-left: 3px solid #bbbbbb; }
 
+#contact table {
+  border: 1px solid #373737;
+  margin-bottom: 20px;
+  text-align: left; }
+#contact th {
+  font-family: "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 10px;
+  background: #373737;
+  color: white; }
+#contact td {
+  padding: 10px;
+  border: 1px solid #373737; }
+
 ul li {
   list-style: inside;
   padding-left: 20px; }
@@ -251,13 +264,12 @@ dl#trips {
 #gist pre code {
   display: block;
   box-shadow: none; }
-
-table {
+#gist table {
   border: 1px solid #dddddd; }
-  table tr:nth-child(even) {
+  #gist table tr:nth-child(even) {
     background-color: white; }
-  table th, table td {
+  #gist table th, #gist table td {
     padding: 5px;
     border: 1px solid #dddddd; }
-  table th {
+  #gist table th {
     font-weight: bold; }
