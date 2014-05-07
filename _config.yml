@@ -1,1 +1,8 @@
 permalink: /:categories/:title
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - Procfile
+  - README.md
