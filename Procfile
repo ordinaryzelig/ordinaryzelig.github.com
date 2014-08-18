@@ -1,2 +1,1 @@
-guard: bundle exec guard
-jekyll: jekyll serve --safe --baseurl '/'
+jekyll: jekyll serve --watch --safe --baseurl '/'
