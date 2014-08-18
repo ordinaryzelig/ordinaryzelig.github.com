@@ -5,7 +5,7 @@ categories: travel
 trip: NYC/BOS/GC/PHX
 ---
 
-You're not a classic Western movie unless you have shot of [Monument Valley](http://en.wikipedia.org/wiki/List_of_appearances_of_Monument_Valley_in_the_media#Film).
+You're not a classic Western movie unless you have shot of <a href="http://en.wikipedia.org/wiki/List_of_appearances_of_Monument_Valley_in_the_media#Film" target="_blank">Monument Valley</a>.
 We took a jeep tour of Monument Valley.
 
 <a href="https://www.flickr.com/photos/ordinaryzelig/14950727435" title="IMG_2446 by jared ning, on Flickr"><img src="https://farm6.staticflickr.com/5568/14950727435_3b60e5f0bc_z.jpg" width="640" height="171" alt="IMG_2446"></a>

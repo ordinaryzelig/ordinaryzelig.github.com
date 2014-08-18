@@ -8,7 +8,7 @@ trip: NYC/BOS/GC/PHX
 We flew from Boston to St. George, Utah, picked up a rental car, and drove to Bryce, Utah.
 This was the beginning of part 2 of our trip, the national parks.
 Bryce Canyon is the most unique national park I've been to.
-It's the [hoodoos](http://en.wikipedia.org/wiki/Hoodoo_(geology)) that distinguish it.
+It's the <a href="http://en.wikipedia.org/wiki/Hoodoo_(geology)" target="_blank">hoodoos</a> that distinguish it.
 We took a bus tour of the area and spent a few hours on an awesome hike to the bottom and back up.
 
 One evening, we attended an astronomy talk.

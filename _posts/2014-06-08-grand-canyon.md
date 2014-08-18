@@ -6,7 +6,7 @@ trip: NYC/BOS/GC/PHX
 ---
 
 It's hard to capture the Grand Canyon with a camera.
-The experience is even more difficult.
+The experience is even more difficult to capture.
 
 <a href="https://www.flickr.com/photos/ordinaryzelig/14765951147" title="IMG_2575 by jared ning, on Flickr"><img src="https://farm4.staticflickr.com/3884/14765951147_b262483b40_z.jpg" width="640" height="480" alt="IMG_2575"></a>
 
@@ -31,7 +31,7 @@ The view from as far down as we got:
 The highlight for me was the mule ride along the rim.
 My mule's name was Junkie.
 I could tell he was a bit stubborn, but we got along great.
-As the ride went on, he turned with much less effort on my part.
+As the ride went on, I could control him with much less effort on my part.
 And I figured out that he responded more to kicking than the whip.
 By the way, if you ever want to see an amazing documentary about how horses mirror the rider, watch [Buck](http://www.imdb.com/title/tt1753549/).
 

@@ -10,7 +10,7 @@ We flew from NYC to MV and spent 2 relaxing days there.
 
 The highlight of MV is the trademark "gingerbread houses".
 Twice, we walked around town just trying to find these gems sprinkled around town.
-This place is like god's pesronal box of [salt water taffy](https://www.google.com/search?q=salt+water+taffy&source=lnms&tbm=isch&sa=X&ei=as7vU66_AuLH8AG42oGQAw&ved=0CAkQ_AUoAg&biw=1440&bih=764).
+This place is like god's pesronal box of <a href="https://www.google.com/search?q=salt+water+taffy&source=lnms&tbm=isch&sa=X&ei=as7vU66_AuLH8AG42oGQAw&ved=0CAkQ_AUoAg&biw=1440&bih=764" target="_blank">salt water taffy</a>.
 
 ![Gingerbread Houses](https://farm4.staticflickr.com/3896/14760197048_87bd7180dd_c.jpg)
 ![Gingerbread Houses](https://farm6.staticflickr.com/5565/14946805835_6f1eb9b9a5_c.jpg)
