@@ -1,4 +1,4 @@
-/******************************************************************************
+/*******************************************************************************
  * MeyerWeb Reset */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -97,10 +97,10 @@ img {
   box-shadow: 0 0 5px #ebebeb; }
 
 blockquote {
-  color: #666666;
+  color: #666;
   margin-bottom: 20px;
   padding: 0 0 0 20px;
-  border-left: 3px solid #bbbbbb; }
+  border-left: 3px solid #bbb; }
 
 #contact table {
   border: 1px solid #373737;
@@ -110,7 +110,7 @@ blockquote {
   font-family: "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 10px;
   background: #373737;
-  color: white; }
+  color: #fff; }
 #contact td {
   padding: 10px;
   border: 1px solid #373737; }
@@ -142,7 +142,7 @@ form {
   background: #f2f2f2;
   padding: 20px; }
 
-/******************************************************************************
+/*******************************************************************************
  * Full-Width Styles */
 .outer {
   width: 100%; }
@@ -163,14 +163,14 @@ form {
   margin: 0;
   font-size: 42px;
   font-weight: 700;
-  text-shadow: #111111 0px 0px 10px; }
+  text-shadow: #111 0px 0px 10px; }
 
 #project_tagline {
-  color: white;
+  color: #fff;
   font-size: 24px;
   font-weight: 300;
   background: none;
-  text-shadow: #111111 0px 0px 10px; }
+  text-shadow: #111 0px 0px 10px; }
 
 #downloads {
   position: absolute;
@@ -183,8 +183,8 @@ form {
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #111111;
-  border-bottom: 1px solid #111111; }
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #111; }
 
 #main_content {
   padding-top: 40px; }
@@ -192,7 +192,7 @@ form {
 #footer_wrap {
   background: #212121; }
 
-/******************************************************************************
+/*******************************************************************************
  * Custom */
 #title-red {
   -webkit-transition: color 0.3s ease;
@@ -211,7 +211,7 @@ ul#contact li, ul#blogs li {
 
 #post-date {
   font-size: 12pt;
-  color: #999999;
+  color: #999;
   margin-bottom: 30px; }
 
 .markdown-body {
@@ -228,17 +228,21 @@ ul#contact li, ul#blogs li {
 dl#trips {
   margin-top: 50px; }
   dl#trips dt {
+    /* trip-name */
     float: left;
     font-weight: bold;
     width: 120px; }
   dl#trips dd {
+    /* posts */
     margin-left: 120px;
     margin-bottom: 50px; }
     dl#trips dd li {
       text-indent: -20px; }
 
+#gist article {
+  padding: 24px; }
 #gist pre, #gist code {
-  color: #222222;
+  color: #222;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 14px;
   border-top-left-radius: 2px;
@@ -248,16 +252,15 @@ dl#trips {
   border-top-left-radius: 2px;
   border-bottom-left-radius: 2px;
   border-top-right-radius: 2px;
-  border-bottom-right-radius: 2px; }
+  border-bottom-right-radius: 2px;
+  background-color: #f7f7f7; }
 #gist pre {
-  border: 1px solid #cccccc;
-  background-color: white;
+  border: 1px solid #ccc;
   padding: 10px;
   box-shadow: 0, 0, 10px, rgba(0, 0, 0, 0.1);
   overflow: auto; }
 #gist code {
-  background-color: #eeeeee;
-  border: 1px solid #dddddd;
+  border: 1px solid #ddd;
   padding: 0 3px 0 3px;
   margin: 0 3px;
   box-shadow: 0, 0m 10pxm rgba(0, 0, 0, 0.1); }
@@ -265,11 +268,11 @@ dl#trips {
   display: block;
   box-shadow: none; }
 #gist table {
-  border: 1px solid #dddddd; }
+  border: 1px solid #ddd; }
   #gist table tr:nth-child(even) {
-    background-color: white; }
+    background-color: #fff; }
   #gist table th, #gist table td {
     padding: 5px;
-    border: 1px solid #dddddd; }
+    border: 1px solid #ddd; }
   #gist table th {
     font-weight: bold; }

@@ -234,17 +234,22 @@ ul#contact li, ul#blogs li
 $trip_name_width: 120px
 dl#trips
   margin-top: 50px
-  dt /* trip-name */
+  dt
+    /* trip-name */
     float: left
     font-weight: bold
     width: $trip_name_width
-  dd /* posts */
+  dd
+    /* posts */
     margin-left: $trip_name_width
     margin-bottom: 50px
     li
       text-indent: -20px
 
 #gist
+
+  article
+    padding: 24px
 
   pre, code
     color: #222
@@ -254,16 +259,15 @@ dl#trips
     @include border-bottom-radius(2px)
     @include border-left-radius(2px)
     @include border-right-radius(2px)
+    background-color: #f7f7f7
 
   pre
     border: 1px solid #ccc
-    background-color: #fff
     padding: 10px
     @include box-shadow(0, 0, 10px, rgba(0,0,0,.1))
     overflow: auto
 
   code
-    background-color: #eee
     border: 1px solid #ddd
     padding: 0 3px 0 3px
     margin: 0 3px
