@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3RD HOME
+title: THIRD HOME
 ---
 
 <iframe src="https://player.vimeo.com/video/210878712" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
