@@ -8,6 +8,7 @@ categories: blog
 
 "A 2 percent GPT didn’t save my job or the jobs of thousands of others in the industry.
 A 2 percent GPT sure as hell didn’t stop oil and gas executives from giving themselves bonuses or raises the past two years."
+
 Rich. People. Don't. Lose. Money.
 
 They protect it. Even if it means spending gobs of money on lawyers and lobbyists to keep from losing even bigger gobs of money later. If they see money losses on the horizon, the first thing they do is pull out their calculators and figure out if it's worth paying these expensive lawyers and lobbyists to fight for saving their precious money. And of course they have their image to worry about. They can't actually come out and say "gosh, I'll lose millions, and I don't want that." So they start fishing for sympathy and shifting blame. "We'll have to layoff people to pay for the tax raises." Don't fall for this crap. The handful of super rich people at the top are yelling this at the top of their lungs with crocodile tears while they try to avert your attention away from the closets behind them overflowing with more money than you can imagine. Enough to pay each and every teacher in the state a decent salary and they would still be billionaires. No, I'm not suggesting that as a solution. Just pointing out how much money they are protecting so we all know how much rich people will "suffer" if they had even that crazy notion forced on them.)
