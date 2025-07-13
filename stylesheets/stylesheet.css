@@ -94,7 +94,8 @@ img {
   padding: 5px;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
-  box-shadow: 0 0 5px #ebebeb; }
+  box-shadow: 0 0 5px #ebebeb;
+  width: 100%; }
 
 blockquote {
   color: #666;
@@ -231,10 +232,10 @@ dl#trips {
     /* trip-name */
     float: left;
     font-weight: bold;
-    width: 200px; }
+    width: 300px; }
   dl#trips dd {
     /* posts */
-    margin-left: 200px;
+    margin-left: 300px;
     margin-bottom: 50px; }
     dl#trips dd li {
       text-indent: -20px; }
