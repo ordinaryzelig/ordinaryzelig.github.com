@@ -231,10 +231,10 @@ dl#trips {
     /* trip-name */
     float: left;
     font-weight: bold;
-    width: 120px; }
+    width: 200px; }
   dl#trips dd {
     /* posts */
-    margin-left: 120px;
+    margin-left: 200px;
     margin-bottom: 50px; }
     dl#trips dd li {
       text-indent: -20px; }
