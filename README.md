@@ -24,4 +24,5 @@ Width is set to 100% in stylesheet.
 - Upload to youtube.
 - Copy embed HTML.
 - Remove width attribute. (Width is set to 100% in stylesheet.)
+- Add `video` class.
 - Adjust height attribute to fit.
