@@ -37,7 +37,7 @@ After a few awkward and confused moments, she gave up and put her head in her ha
 I was not amused.
 Anyway, we got our picture.
 
-<iframe height="515" src="https://www.youtube.com/embed/UThniIVhv2E?si=6JecJmzl1TUmfOAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" height="515" src="https://www.youtube.com/embed/UThniIVhv2E?si=6JecJmzl1TUmfOAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The first thing we did was walk through Sleeping Beauty’s castle.
 First we went upstairs, and then Stephanie led us downstairs to the dragon.
@@ -53,18 +53,18 @@ Next was our highly anticipated princess breakfast.
 
 ### Cinderella
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/diVJVA0Oug4?si=XCrmIAl1Oh1AwYqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/diVJVA0Oug4?si=XCrmIAl1Oh1AwYqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img src="https://www.dropbox.com/scl/fi/hb40b1a48d6v8u6iphya8/IMG_8884.jpeg?rlkey=jz4kz9dujpvlun2045c5eiex9&st=7sjj1f8w&raw=1">
 
 ### Snow White
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s7HquRGCy44?si=deck1P9kxeUnPiLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/s7HquRGCy44?si=deck1P9kxeUnPiLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img src="https://www.dropbox.com/scl/fi/m8zty94i81gw9dlahbih9/IMG_8892.jpeg?rlkey=kfn5tu9nmqp5olgrary1vzo12&st=ik327rfd&raw=1">
 
 ### Aurora
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E5LOFfi9WHg?si=owxCsyA2SKwGfBhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-fcTThiyhaY?si=xCD-QKcOzUtTqd0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/E5LOFfi9WHg?si=owxCsyA2SKwGfBhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/-fcTThiyhaY?si=xCD-QKcOzUtTqd0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img src="https://www.dropbox.com/scl/fi/mjzsax0ra2da66ul8qn88/IMG_8902.jpeg?rlkey=uaziwmzj2ftpvfuokfobkj7j8&st=jarllh7q&raw=1">
 
 ---
@@ -77,9 +77,8 @@ We ended up riding it again later.
 
 <img src="https://www.dropbox.com/scl/fi/9aa4y6bgyofva0frg0gpx/IMG_7331.jpeg?rlkey=6zcs7js02inwujd30lx78kpt8&st=k3u8oalx&raw=1">
 
-<iframe height="515" src="https://www.youtube.com/embed/TSTDJ8RTb6w?si=ppASyCnlxIfEovcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br/>
-<iframe height="515" src="https://www.youtube.com/embed/deeGkjWIUek?si=XyL7VaUQKvWouwBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" height="515" src="https://www.youtube.com/embed/TSTDJ8RTb6w?si=ppASyCnlxIfEovcm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" height="515" src="https://www.youtube.com/embed/deeGkjWIUek?si=XyL7VaUQKvWouwBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img src="https://www.dropbox.com/scl/fi/xzcgt00a3efinrwhsiezr/IMG_8917.jpeg?rlkey=ytbmh8eyi7b09hublpvtao1a7&st=5ver6xie&raw=1">
 <img src="https://www.dropbox.com/scl/fi/95nqg5385l7m1m1pkjuv5/IMG_8916.jpeg?rlkey=5myw3oawj06yze2bs11fy2kcn&st=ogt1o10a&raw=1">
@@ -129,7 +128,7 @@ So much so that she requested we stay up late on day 2 to watch it again.
 So we did.
 
 <img src="https://www.dropbox.com/scl/fi/tn6ky02tt0327f7h058vm/Screenshot-2025-07-13-at-12.13.19.png?rlkey=qv9g5mp83jbcvew8b8jlaqsyd&st=u5in91ax&raw=1">
-<iframe height="515" src="https://www.youtube.com/embed/kbM-oWoxxws?si=Vl_qtq8sSCee9O7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" height="515" src="https://www.youtube.com/embed/kbM-oWoxxws?si=Vl_qtq8sSCee9O7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

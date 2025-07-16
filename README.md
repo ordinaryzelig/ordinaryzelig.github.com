@@ -14,8 +14,10 @@ Dev startup
 
 #### Photos
 
-- Create shared album in photos/icloud.
-- Inspect images for permalink `src` tags.
+- Upload photos to dropbox.
+- Copy share link.
+- Change `dl=0` to `raw=1`
+- Insert `src` tag with above URL.
 
 Width is set to 100% in stylesheet.
 
@@ -23,6 +25,9 @@ Width is set to 100% in stylesheet.
 
 - Upload to youtube.
 - Copy embed HTML.
+  - If youtube considers it a "short", copy the URL and change `video` to `watch`.
+  - Youtube will redirect.
+  - Share, embed.
 - Remove width attribute. (Width is set to 100% in stylesheet.)
 - Add `video` class.
 - Adjust height attribute to fit.

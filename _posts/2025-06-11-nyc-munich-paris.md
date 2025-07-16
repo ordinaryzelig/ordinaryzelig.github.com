@@ -30,7 +30,7 @@ We decided to break up the trip by going back to New York again, and then fly no
 
 ### Summit at 1 Vanderbilt
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FE0qvGwQl7I?si=nfvrsLqD2X5620D7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/FE0qvGwQl7I?si=nfvrsLqD2X5620D7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img src="https://www.dropbox.com/scl/fi/lvdg8gzm6ky484st4x3mf/Screenshot-2025-07-13-at-11.33.14.jpeg?rlkey=v99ggy2mm03mh1c1hteuh0nsq&st=o4ykrjub&raw=1">
 <img src="https://www.dropbox.com/scl/fi/dv1bnq2tbieh7ii6zq3w0/IMG_6791.jpeg?rlkey=cdzr8zxt6wmj62xmri7t93ehh&st=3cp4bwwx&raw=1">
 
