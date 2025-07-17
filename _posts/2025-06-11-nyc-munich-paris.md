@@ -45,10 +45,6 @@ We decided to break up the trip by going back to New York again, and then fly no
 <img src="https://www.dropbox.com/scl/fi/jc3gcc6cdoslfbvhgfsu3/IMG_6746.jpeg?rlkey=5af72l9hku6c5ldkezgs6wxze&st=ude5o804&raw=1">
 <img src="https://www.dropbox.com/scl/fi/j3i12cyih0yjriw9mp12d/IMG_6751.jpeg?rlkey=69uwxmfpmlrsv4hyybjlfnr3r&st=u36frmnr&raw=1">
 
-### Eliza loves trains.
-
-<img src="https://www.dropbox.com/scl/fi/hw5xo2mb07lhcgpxfh36e/IMG_8772.jpeg?rlkey=6htwcqnunf68j12po8qv1ab4e&st=ew0s5k9s&raw=1">
-
 ### The first of many rendezvous with cousin Mandi
 
 <img src="https://www.dropbox.com/scl/fi/jts6n6s36a1urq8b9f33c/IMG_8771.jpeg?rlkey=rw78yt0drcc9d6utepb7fem8f&st=g2nqxxbu&raw=1">
