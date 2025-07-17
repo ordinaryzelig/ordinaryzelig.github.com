@@ -91,7 +91,7 @@ It’s not a fast train, but it’s definitely not slow.
 After getting off the ride, Eliza said “that was so crazy.
 It made my heart jump.
 It was the meanest train ever.
-Let’s go see the slow dragon.” PPP
+Let’s go see the slow dragon.”
 
 Nap didn’t go so well the first day.
 Stephanie found a Facebook group dedicated to sharing strollers at Disneyland Paris.
