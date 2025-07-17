@@ -3,6 +3,7 @@ layout: post
 title: Disneyland Paris
 categories: travel
 trip: NYC/Munich/Disney
+og_image: https://www.dropbox.com/scl/fi/pguqjql2jd2y9mb40vr2m/IMG_7316.jpeg?rlkey=jpto07logoluhiq1gruhg04w9&st=nmotb38e&raw=1
 ---
 
 We stayed at Disney’s “The Art of Marvel” New York hotel.

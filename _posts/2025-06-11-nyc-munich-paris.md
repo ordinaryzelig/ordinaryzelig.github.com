@@ -3,6 +3,7 @@ layout: post
 title: Back to Munich but first NYC
 categories: travel
 trip: NYC/Munich/Disney
+og_image: https://www.dropbox.com/scl/fi/heeqepy59t4fih1ijtjx0/IMG_6774.jpeg?rlkey=gvjcvd6pgblg7783ihypw6txy&st=xqji7yh6&raw=1
 ---
 
 I used to go to Germany once or twice a year for work.
