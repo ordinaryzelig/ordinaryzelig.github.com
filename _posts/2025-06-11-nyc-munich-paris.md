@@ -52,6 +52,8 @@ We decided to break up the trip by going back to New York again, and then fly no
 
 ---
 
-Next stop: [Munich]({% post_url 2025-06-14-munich %})
+<div class="d-grid gap-2">
+  <a href="{% post_url 2025-06-14-munich %}" class="btn btn-primary">Next stop: Munich</a>
+</div>
 
 <img src="https://www.dropbox.com/scl/fi/1n7h3hx3gqv87tr7jwn2m/IMG_6860.jpeg?rlkey=ozopndc4t5h1zcafpbt3r0bxr&st=1f4obebl&raw=1">

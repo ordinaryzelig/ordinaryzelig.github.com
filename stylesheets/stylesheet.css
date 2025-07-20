@@ -277,3 +277,6 @@ dl#trips {
     border: 1px solid #ddd; }
   #gist table th {
     font-weight: bold; }
+
+.btn {
+  padding: 10px; }
