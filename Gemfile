@@ -8,4 +8,5 @@ group :development do
   gem 'foreman'
   gem 'guard-sass'
   gem 'bourbon'
+  gem 'foreman'
 end
