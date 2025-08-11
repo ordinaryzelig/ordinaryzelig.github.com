@@ -21,22 +21,22 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-      <header class="inner">
-      <h1 id="project_title">
-        <a href="{{ site.baseurl }}/">
-          <span id="title-Ja>">Ja</span><span id="title-red">red</span>
-          <span id="title-space"> </span>
-          <span id="title-Ning">Ning</span>
-        </a>
-      </h1>
-      <h2 id="project_tagline"><a href="/{{ page.categories.first }}">
-        {% if page.categories contains "dev" %}
-          Code Ningja
-        {% elsif page.categories contains "travel" %}
-          Travel
-        {% endif %}
-      </a></h2>
-      {% if page.showContact %} {% include contact.html %} {% endif %}
+      <header class="inner mx-auto">
+        <h1 id="project_title">
+          <a href="{{ site.baseurl }}/">
+            <span id="title-Ja>">Ja</span><span id="title-red">red</span>
+            <span id="title-space"> </span>
+            <span id="title-Ning">Ning</span>
+          </a>
+        </h1>
+        <h2 id="project_tagline"><a href="/{{ page.categories.first }}">
+          {% if page.categories contains "dev" %}
+            Code Ningja
+          {% elsif page.categories contains "travel" %}
+            Travel
+          {% endif %}
+        </a></h2>
+        {% if page.showContact %} {% include contact.html %} {% endif %}
       </header>
     </div>
 
