@@ -1,78 +1,11 @@
-/*******************************************************************************
- MeyerWeb Reset */
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video
-  margin: 0
-  padding: 0
-  border: 0
-  font: inherit
-  vertical-align: baseline
-
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section
-  display: block
-
-ol, ul
-  list-style: none
-
-table
-  border-collapse: collapse
-  border-spacing: 0
-
-a:focus
-  outline: none
-
-// ******************************************************************************
-
 body
   box-sizing: border-box
   background: #212121
-  font-size: 16px
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif
-  line-height: 1.5
   -webkit-font-smoothing: antialiased
 
 h1, h2, h3, h4, h5, h6
-  margin: 10px 0
-  font-weight: 700
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif
-  letter-spacing: -1px
-
-h1
-  font-size: 36px
-  font-weight: 700
-
-h2
-  padding-bottom: 10px
-  font-size: 32px
-  background: url('../images/bg_hr.png') repeat-x bottom
-
-h3
-  font-size: 24px
-
-h4
-  font-size: 21px
-
-h5
-  font-size: 18px
-
-h6
-  font-size: 16px
-p
-  margin: 10px 0 15px 0
 
 footer p
   color: #f2f2f2
@@ -97,7 +30,6 @@ img, iframe.video
   padding: 5px
   margin: 10px 0 10px 0
   border: 1px solid #ebebeb
-  @include box-shadow(0 0 5px #ebebeb)
   width: 100%
 
 blockquote
@@ -121,10 +53,6 @@ blockquote
   td
     padding: 10px
     border: 1px solid #373737
-
-ul li
-  list-style: inside
-  padding-left: 20px
 
 ol li
   list-style: decimal inside
@@ -165,7 +93,7 @@ form
   background: #212121
 
 #header_wrap .inner
-  padding: 50px 10px 30px 10px
+  padding: 15px
 
 #project_title
   margin: 0
@@ -192,7 +120,7 @@ form
 #main_content_wrap
   background: #f2f2f2
   border-top: 1px solid #111
-  border-bottom: 1px solid #111
+  padding-bottom: 10px
 
 #main_content
   padding-top: 40px
@@ -202,9 +130,6 @@ form
 
 /*******************************************************************************
  Custom */
-
-#title-red
-  @include transition(color 0.3s ease)
 
 #project_title a:hover #title-red
   color: red
@@ -231,19 +156,6 @@ ul#contact li, ul#blogs li
   font-size: 80%
 
 $trip_name_width: 300px
-dl#trips
-  margin-top: 50px
-  dt
-    /* trip-name */
-    float: left
-    font-weight: bold
-    width: $trip_name_width
-  dd
-    /* posts */
-    margin-left: $trip_name_width
-    margin-bottom: 50px
-    li
-      text-indent: -20px
 
 #gist
 
@@ -254,27 +166,20 @@ dl#trips
     color: #222
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace
     font-size: 14px
-    @include border-top-radius(2px)
-    @include border-bottom-radius(2px)
-    @include border-left-radius(2px)
-    @include border-right-radius(2px)
     background-color: #f7f7f7
 
   pre
     border: 1px solid #ccc
     padding: 10px
-    @include box-shadow(0, 0, 10px, rgba(0,0,0,.1))
     overflow: auto
 
   code
     border: 1px solid #ddd
     padding: 0 3px 0 3px
     margin: 0 3px
-    @include box-shadow(0, 0m 10pxm rgba(0,0,0,.1))
 
   pre code
     display: block
-    @include box-shadow(none)
 
   $table_border: 1px solid #ddd
   table
